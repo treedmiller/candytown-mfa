@@ -27,6 +27,9 @@ This activity was developed in 2022 and has been completed by at least four sets
 * Columbia University (Prof. Lynnette Widder, March 2023)
 * Wuazhong University of Science and Technology (HUST) (Prof. Huabo Duan, June 2023)
 * University of British Columbia (Prof. Qingshi Tu, Fall 2025)
+
+
+  
 Please let me know if you try it with your students, and I'll add you to the list!
 
 
