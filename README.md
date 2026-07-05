@@ -2,6 +2,7 @@
 
 Dynamic MFA exercise with building materials in Candy Town
 
+<img width="200" height="112" alt="image" src="https://github.com/user-attachments/assets/b106e158-e2a1-4bee-a1dd-fba8778254f9" />
 
 
 This is a hands-on set of activities for college-level learners to:
