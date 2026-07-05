@@ -18,7 +18,7 @@ This is a hands-on set of activities for college-level learners to:
 
 
 
-The latest files are v4. Included are handouts (docx and pdf), spreadsheets (solved, unsolved), and overview slides. Each group of 4 students needs one set of the group handout, and each student needs the individual handout.  There is a solved version of the group handout.
+The latest files are v4. Included are handouts (docx and pdf), spreadsheets (solved, unsolved), and overview slides. Each group of 4 students needs one set of the group handout, and each student needs the individual handout.  There is a solved version of the group handout.  You will also need sufficient building blocks - either colorful Pez candy or lego-type bricks.
 
 
 
