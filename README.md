@@ -22,12 +22,17 @@ The latest files are v4. Included are handouts (docx and pdf), spreadsheets (sol
 
 
 
-This activity was developed in 2022 and has been completed by at least four sets of graduate student at various universities: Yale University (Prof. Reed Miller, Fall 2022), Columbia University (Prof. Lynnette Widder, March 2023), Wuazhong University of Science and Technology (HUST) (Prof. Huabo Duan, June 2023), University of British Columbia (Prof. Qingshi Tu, Fall 2025). Please let me know if you try it with your students, and I'll add you to the list!
+This activity was developed in 2022 and has been completed by at least four sets of graduate students at various universities: 
+* Yale University (Prof. Reed Miller, Fall 2022)
+* Columbia University (Prof. Lynnette Widder, March 2023)
+* Wuazhong University of Science and Technology (HUST) (Prof. Huabo Duan, June 2023)
+* University of British Columbia (Prof. Qingshi Tu, Fall 2025)
+Please let me know if you try it with your students, and I'll add you to the list!
 
 
 
 
-There is always room for improvement; you are encouraged to fork these files and share your edits on GitHub!
+There is always room for improvement; you are encouraged to fork these files and share your edits on GitHub! Feel free to contact me, reed.miller@maine.edu
 
 
 
